@@ -1,6 +1,21 @@
-# Getting Started with Create React App
+# Red Lux Rental- PureSoft Products 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+
+# Colors Pallet 
+
+borders: #E1E8ED   bright silver blue 
+
+scroll content: #F9F6EF nude cream
+
+background: #B2ABA2 gray
+
+Glow: reds: #80221E (dark matte red) buttons,bight red for 
+content scroll, etc. 
+
+font: Zapfino size: 15 h2 & (h1- size: 40),
 
 ## Available Scripts
 
